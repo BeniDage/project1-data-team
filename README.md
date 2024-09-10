@@ -16,6 +16,8 @@ git clone https://github.com/yourusername/Project1.git
 
 cd Project1
 
-2. Build and Run the Services
+
 Use Docker Compose to build the images and run the services:
+
+docker-compose up --build
 ```
