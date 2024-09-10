@@ -12,7 +12,7 @@ This project is a web server application that connects to a MongoDB database. Th
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/Project1.git
+git clone https://github.com/BeniDage/project1-data-team.git
 
 cd Project1
 
