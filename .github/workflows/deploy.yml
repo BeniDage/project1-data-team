@@ -21,7 +21,7 @@ jobs:
       - name: Deploy to VM
         run: |
           ssh -o StrictHostKeyChecking=no bendang@redback.it.deakin.edu.au << 'EOF'
-            cd /path/to/your/project
+            cd /home/bendang/project1-data-team/Project1
             git pull origin main
             docker-compose up --build -d
           EOF
